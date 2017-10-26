@@ -1,7 +1,7 @@
 batch_module.form:
-  path: 'batch_module'
+  path: '/batch_module'
   defaults:
-    _form: '\batch_module\Form\BatchModuleForm'
+    _form: '\Drupal\batch_module\Form\BatchModuleForm'
     _title: 'Batch processing'
   requirements:
     _permission: 'access content'
