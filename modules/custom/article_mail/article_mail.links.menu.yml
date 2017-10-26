@@ -1,0 +1,5 @@
+article_mail.admin:
+  title: 'Article mail settings'
+  description: 'A module which sends Email when new article is created.'
+  parent: system.admin_config_development
+  route_name: article_mail.form

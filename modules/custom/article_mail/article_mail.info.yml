@@ -1,0 +1,6 @@
+name: Article Email
+type: module
+description: Sends an email to site-mail when user creates new Article.
+package: Custom
+version: 1.0
+core: 8.x

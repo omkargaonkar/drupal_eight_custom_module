@@ -1,0 +1,7 @@
+article_mail.form:
+  path: '/article_mail'
+  defaults:
+    _form: '\Drupal\article_mail\Form\ArticleMailForm'
+    _title: 'Email Form'
+  requirements:
+    _permission: 'access content'
