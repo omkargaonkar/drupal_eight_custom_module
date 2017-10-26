@@ -1,0 +1,6 @@
+name: Batch Module
+description: Custom module to create a batch to publish all nodes
+package: Custom
+type: module
+version: 1.0
+core: 8.x

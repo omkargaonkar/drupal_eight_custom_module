@@ -1,0 +1,7 @@
+# Define default links for this module.
+batch_module.menu:
+  title: 'Batch API'
+  description: 'batch to publish all nodes'
+  parent: main
+  menu_name: main
+  route_name: batch_module.form
